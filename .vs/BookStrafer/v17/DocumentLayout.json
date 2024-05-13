@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive2\\OneDrive\\Dokumentumok\\egyetem\\vi_felev\\klitech\\hf\\BookStrafer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{966F91BD-4B9B-4619-9130-A0DDBE9A5453}|BookStrafer.csproj|D:\\OneDrive2\\OneDrive\\Dokumentumok\\egyetem\\vi_felev\\klitech\\hf\\BookStrafer\\viewmodels\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{966F91BD-4B9B-4619-9130-A0DDBE9A5453}|BookStrafer.csproj|solutionrelative:viewmodels\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966F91BD-4B9B-4619-9130-A0DDBE9A5453}|BookStrafer.csproj|d:\\onedrive2\\onedrive\\dokumentumok\\egyetem\\vi_felev\\klitech\\hf\\bookstrafer\\views\\resultspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{966F91BD-4B9B-4619-9130-A0DDBE9A5453}|BookStrafer.csproj|solutionrelative:views\\resultspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966F91BD-4B9B-4619-9130-A0DDBE9A5453}|BookStrafer.csproj|d:\\onedrive2\\onedrive\\dokumentumok\\egyetem\\vi_felev\\klitech\\hf\\bookstrafer\\views\\resultspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{966F91BD-4B9B-4619-9130-A0DDBE9A5453}|BookStrafer.csproj|solutionrelative:views\\resultspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966F91BD-4B9B-4619-9130-A0DDBE9A5453}|BookStrafer.csproj|d:\\onedrive2\\onedrive\\dokumentumok\\egyetem\\vi_felev\\klitech\\hf\\bookstrafer\\viewmodels\\resultspageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{966F91BD-4B9B-4619-9130-A0DDBE9A5453}|BookStrafer.csproj|solutionrelative:viewmodels\\resultspageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966F91BD-4B9B-4619-9130-A0DDBE9A5453}|BookStrafer.csproj|D:\\OneDrive2\\OneDrive\\Dokumentumok\\egyetem\\vi_felev\\klitech\\hf\\BookStrafer\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{966F91BD-4B9B-4619-9130-A0DDBE9A5453}|BookStrafer.csproj|solutionrelative:views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966F91BD-4B9B-4619-9130-A0DDBE9A5453}|BookStrafer.csproj|d:\\onedrive2\\onedrive\\dokumentumok\\egyetem\\vi_felev\\klitech\\hf\\bookstrafer\\obj\\x86\\debug\\views\\mainpage.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{966F91BD-4B9B-4619-9130-A0DDBE9A5453}|BookStrafer.csproj|solutionrelative:obj\\x86\\debug\\views\\mainpage.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966F91BD-4B9B-4619-9130-A0DDBE9A5453}|BookStrafer.csproj|d:\\onedrive2\\onedrive\\dokumentumok\\egyetem\\vi_felev\\klitech\\hf\\bookstrafer\\services\\booksearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{966F91BD-4B9B-4619-9130-A0DDBE9A5453}|BookStrafer.csproj|solutionrelative:services\\booksearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966F91BD-4B9B-4619-9130-A0DDBE9A5453}|BookStrafer.csproj|d:\\onedrive2\\onedrive\\dokumentumok\\egyetem\\vi_felev\\klitech\\hf\\bookstrafer\\models\\searchresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{966F91BD-4B9B-4619-9130-A0DDBE9A5453}|BookStrafer.csproj|solutionrelative:models\\searchresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966F91BD-4B9B-4619-9130-A0DDBE9A5453}|BookStrafer.csproj|D:\\OneDrive2\\OneDrive\\Dokumentumok\\egyetem\\vi_felev\\klitech\\hf\\BookStrafer\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{966F91BD-4B9B-4619-9130-A0DDBE9A5453}|BookStrafer.csproj|solutionrelative:views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResultsPage.xaml.cs",
+              "DocumentMoniker": "D:\\OneDrive2\\OneDrive\\Dokumentumok\\egyetem\\vi_felev\\klitech\\hf\\BookStrafer\\Views\\ResultsPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\ResultsPage.xaml.cs",
+              "ToolTip": "D:\\OneDrive2\\OneDrive\\Dokumentumok\\egyetem\\vi_felev\\klitech\\hf\\BookStrafer\\Views\\ResultsPage.xaml.cs",
+              "RelativeToolTip": "Views\\ResultsPage.xaml.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAowCAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T18:42:30.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.g.cs",
+              "DocumentMoniker": "D:\\OneDrive2\\OneDrive\\Dokumentumok\\egyetem\\vi_felev\\klitech\\hf\\BookStrafer\\obj\\x86\\Debug\\Views\\MainPage.g.cs",
+              "RelativeDocumentMoniker": "obj\\x86\\Debug\\Views\\MainPage.g.cs",
+              "ToolTip": "D:\\OneDrive2\\OneDrive\\Dokumentumok\\egyetem\\vi_felev\\klitech\\hf\\BookStrafer\\obj\\x86\\Debug\\Views\\MainPage.g.cs",
+              "RelativeToolTip": "obj\\x86\\Debug\\Views\\MainPage.g.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T18:41:27.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BooksearchService.cs",
+              "DocumentMoniker": "D:\\OneDrive2\\OneDrive\\Dokumentumok\\egyetem\\vi_felev\\klitech\\hf\\BookStrafer\\Services\\BooksearchService.cs",
+              "RelativeDocumentMoniker": "Services\\BooksearchService.cs",
+              "ToolTip": "D:\\OneDrive2\\OneDrive\\Dokumentumok\\egyetem\\vi_felev\\klitech\\hf\\BookStrafer\\Services\\BooksearchService.cs",
+              "RelativeToolTip": "Services\\BooksearchService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T18:41:10.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SearchResult.cs",
+              "DocumentMoniker": "D:\\OneDrive2\\OneDrive\\Dokumentumok\\egyetem\\vi_felev\\klitech\\hf\\BookStrafer\\Models\\SearchResult.cs",
+              "RelativeDocumentMoniker": "Models\\SearchResult.cs",
+              "ToolTip": "D:\\OneDrive2\\OneDrive\\Dokumentumok\\egyetem\\vi_felev\\klitech\\hf\\BookStrafer\\Models\\SearchResult.cs",
+              "RelativeToolTip": "Models\\SearchResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T18:40:45.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResultsPage.xaml",
+              "DocumentMoniker": "D:\\OneDrive2\\OneDrive\\Dokumentumok\\egyetem\\vi_felev\\klitech\\hf\\BookStrafer\\Views\\ResultsPage.xaml",
+              "RelativeDocumentMoniker": "Views\\ResultsPage.xaml",
+              "ToolTip": "D:\\OneDrive2\\OneDrive\\Dokumentumok\\egyetem\\vi_felev\\klitech\\hf\\BookStrafer\\Views\\ResultsPage.xaml",
+              "RelativeToolTip": "Views\\ResultsPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-13T18:38:37.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResultsPageViewModel.cs",
+              "DocumentMoniker": "D:\\OneDrive2\\OneDrive\\Dokumentumok\\egyetem\\vi_felev\\klitech\\hf\\BookStrafer\\ViewModels\\ResultsPageViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ResultsPageViewModel.cs",
+              "ToolTip": "D:\\OneDrive2\\OneDrive\\Dokumentumok\\egyetem\\vi_felev\\klitech\\hf\\BookStrafer\\ViewModels\\ResultsPageViewModel.cs",
+              "RelativeToolTip": "ViewModels\\ResultsPageViewModel.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAlwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T18:38:20.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPageViewModel.cs",
+              "DocumentMoniker": "D:\\OneDrive2\\OneDrive\\Dokumentumok\\egyetem\\vi_felev\\klitech\\hf\\BookStrafer\\ViewModels\\MainPageViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MainPageViewModel.cs",
+              "ToolTip": "D:\\OneDrive2\\OneDrive\\Dokumentumok\\egyetem\\vi_felev\\klitech\\hf\\BookStrafer\\ViewModels\\MainPageViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MainPageViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T17:36:07.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\OneDrive2\\OneDrive\\Dokumentumok\\egyetem\\vi_felev\\klitech\\hf\\BookStrafer\\Views\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Views\\MainPage.xaml",
+              "ToolTip": "D:\\OneDrive2\\OneDrive\\Dokumentumok\\egyetem\\vi_felev\\klitech\\hf\\BookStrafer\\Views\\MainPage.xaml",
+              "RelativeToolTip": "Views\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-13T17:21:32.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\OneDrive2\\OneDrive\\Dokumentumok\\egyetem\\vi_felev\\klitech\\hf\\BookStrafer\\Views\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\MainPage.xaml.cs",
+              "ToolTip": "D:\\OneDrive2\\OneDrive\\Dokumentumok\\egyetem\\vi_felev\\klitech\\hf\\BookStrafer\\Views\\MainPage.xaml.cs",
+              "RelativeToolTip": "Views\\MainPage.xaml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAowCYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T17:21:24.933Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
