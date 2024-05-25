@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f1331Xt391wEdA3CsoBMS487HU/7wS8zr7X2ZYDLrARm9J81GAoppovzoR0sF4IRMP51OW7oxWYbaZ98KGDOqw==",
+  "dgSpecHash": "mbBrHOyFdU3oKqYl2IcE2Bu+VT/jkTQxWzgBY5l+qfYh2CPFSu23r8bg5ylS8pxNH4wDHlWgP6oNQzpRyZ4Fuw==",
   "success": true,
-  "projectFilePath": "D:\\OneDrive2\\OneDrive\\Dokumentumok\\egyetem\\vi_felev\\klitech\\hf\\BookStrafer\\BookStrafer.csproj",
+  "projectFilePath": "D:\\OneDrive2\\OneDrive\\Dokumentumok\\egyetem\\vi_felev\\klitech\\last\\XAML MVVM start\\XAML 2 start\\Cookbook\\Cookbook\\Cookbook.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.netcore\\5.0.2\\microsoft.netcore.5.0.2.nupkg.sha512",
@@ -13,7 +13,7 @@
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.netcore.targets\\1.0.2\\microsoft.netcore.targets.1.0.2.nupkg.sha512",
     "C:\\Users\\thest\\.nuget\\packages\\microsoft.netcore.universalwindowsplatform\\5.2.2\\microsoft.netcore.universalwindowsplatform.5.2.2.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.netcore.windows.apisets\\1.0.1\\microsoft.netcore.windows.apisets.1.0.1.nupkg.sha512",
-    "C:\\Users\\thest\\.nuget\\packages\\microsoft.ui.xaml\\2.5.0\\microsoft.ui.xaml.2.5.0.nupkg.sha512",
+    "C:\\Users\\thest\\.nuget\\packages\\microsoft.ui.xaml\\2.4.0\\microsoft.ui.xaml.2.4.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.visualbasic\\10.0.1\\microsoft.visualbasic.10.0.1.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.win32.primitives\\4.0.1\\microsoft.win32.primitives.4.0.1.nupkg.sha512",
     "C:\\Users\\thest\\.nuget\\packages\\microsoft.xaml.behaviors.uwp.managed\\1.1.0\\microsoft.xaml.behaviors.uwp.managed.1.1.0.nupkg.sha512",
@@ -181,7 +181,6 @@
       "targetGraphs": [
         "UAP,Version=v10.0.16299",
         "UAP,Version=v10.0.16299/win10-arm",
-        "UAP,Version=v10.0.16299/win10-arm64-aot",
         "UAP,Version=v10.0.16299/win10-arm-aot",
         "UAP,Version=v10.0.16299/win10-x64",
         "UAP,Version=v10.0.16299/win10-x64-aot",
@@ -198,7 +197,6 @@
       "targetGraphs": [
         "UAP,Version=v10.0.16299",
         "UAP,Version=v10.0.16299/win10-arm",
-        "UAP,Version=v10.0.16299/win10-arm64-aot",
         "UAP,Version=v10.0.16299/win10-arm-aot",
         "UAP,Version=v10.0.16299/win10-x64",
         "UAP,Version=v10.0.16299/win10-x64-aot",

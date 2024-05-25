@@ -1,26 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Runtime.InteropServices.WindowsRuntime;
+using System;
 using System.Threading.Tasks;
-using Windows.Foundation;
-using Windows.Foundation.Collections;
 using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
-using Windows.UI.Xaml.Controls.Primitives;
-using Windows.UI.Xaml.Data;
-using Windows.UI.Xaml.Input;
-using Windows.UI.Xaml.Media;
-using Windows.UI.Xaml.Navigation;
 
-// The Blank Page item template is documented at https://go.microsoft.com/fwlink/?LinkId=402352&clcid=0x409
-
-namespace BookStrafer
+namespace Cookbook.Views
 {
-    /// <summary>
-    /// An empty page that can be used on its own or navigated to within a Frame.
-    /// </summary>
     public sealed partial class MainPage : Page
     {
         string helloText = "Welcome to BookStrafer!";
@@ -32,6 +16,11 @@ namespace BookStrafer
             StartTypingAnimation();
         }
 
+        /// <summary>
+        /// makes the user able to click on the search button to search for books
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void btnSearch_Click(object sender, RoutedEventArgs e)
         {
             var frame = Window.Current.Content as Frame;
@@ -40,7 +29,7 @@ namespace BookStrafer
         }
 
         /// <summary>
-        /// This creates a typing animation for the greeting text
+        /// this creates a typing animation for the greeting text
         /// </summary>
         private async void StartTypingAnimation()
         {
@@ -53,6 +42,7 @@ namespace BookStrafer
                 await Task.Delay(50);
             }
             currentCharIndex = 0;
+
             while (currentCharIndex < beOurGuestText.Length)
             {
                 txtBeOurGuestText.Text += beOurGuestText[currentCharIndex];
@@ -60,6 +50,18 @@ namespace BookStrafer
                 await Task.Delay(30);
             }
         }
+
+        /// <summary>
+        /// makes it able to press enter to search
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void txtSearch_KeyDown(object sender, Windows.UI.Xaml.Input.KeyRoutedEventArgs e)
+        {
+            if (e.Key == Windows.System.VirtualKey.Enter)
+                btnSearch_Click(this, new RoutedEventArgs());
+        }
+
 
     }
 }

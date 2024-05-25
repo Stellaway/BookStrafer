@@ -1,16 +1,15 @@
-﻿<Page
-    x:Class="BookStrafer.MainPage"
-    
-    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-    xmlns:local="using:BookStrafer"
-    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
-    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-    xmlns:vm="using:BookStrafer.ViewModels"
-    mc:Ignorable="d"
-    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+<Page x:Class="Cookbook.Views.MainPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:Core="using:Microsoft.Xaml.Interactions.Core"
+      xmlns:Interactivity="using:Microsoft.Xaml.Interactivity"
+      xmlns:controls="using:Template10.Controls"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:local="using:Cookbook.Views"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:vm="using:Cookbook.ViewModels"
+      mc:Ignorable="d">
 
-    
     <Page.DataContext>
         <vm:MainPageViewModel x:Name="ViewModel" />
     </Page.DataContext>
@@ -18,14 +17,15 @@
         <Grid.Background>
             <ImageBrush ImageSource="Assets/Bookground.jpg"/>
         </Grid.Background>
-        <Image Source="/Assets/Bookground.jpg" Opacity="0.6" Stretch="Fill"/>
+        <Image Source="/Assets/Bookground.jpg" Opacity="0.7" Stretch="Fill"/>
         <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Top" >
             <TextBlock x:Name="txtHelloText" FontSize="55" Margin="25" HorizontalAlignment="Center" Foreground="AliceBlue"/>
             <TextBlock x:Name="txtBeOurGuestText" FontSize="45" Margin="25" HorizontalAlignment="Center" Foreground="AliceBlue"/>
         </StackPanel>
         <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center">
-            <TextBox x:Name="txtSearch" Margin="10" HorizontalAlignment="Center"  Width="400" />
-            <Button x:Name="btnSearch" Content="Search" FontSize="20" Width ="100" Height="50" HorizontalAlignment="Center" Margin="10" Click="btnSearch_Click"/>
+            <TextBox x:Name="txtSearch" Margin="10" HorizontalAlignment="Center"  Width="400" KeyDown="txtSearch_KeyDown" />
+            <Button x:Name="btnSearch" Content="Search" FontSize="20" Foreground="AliceBlue" Background="Black" Opacity=".7" Width ="100" Height="50" HorizontalAlignment="Center" Margin="10" Click="btnSearch_Click"/>
         </StackPanel>
     </Grid>
 </Page>
+

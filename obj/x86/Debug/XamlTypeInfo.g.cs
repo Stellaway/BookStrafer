@@ -8,22 +8,22 @@
 //------------------------------------------------------------------------------
 
 
-namespace BookStrafer
+namespace Cookbook
 {
     public partial class App : global::Windows.UI.Xaml.Markup.IXamlMetadataProvider
     {
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Windows.UI.Xaml.Build.Tasks"," 0.0.0.0")]
-        private global::BookStrafer.BookStrafer_XamlTypeInfo.XamlMetaDataProvider __appProvider;
+        private global::Cookbook.Cookbook_XamlTypeInfo.XamlMetaDataProvider __appProvider;
 
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Windows.UI.Xaml.Build.Tasks"," 0.0.0.0")]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        private global::BookStrafer.BookStrafer_XamlTypeInfo.XamlMetaDataProvider _AppProvider
+        private global::Cookbook.Cookbook_XamlTypeInfo.XamlMetaDataProvider _AppProvider
         {
             get
             {
                 if (__appProvider == null)
                 {
-                    __appProvider = new global::BookStrafer.BookStrafer_XamlTypeInfo.XamlMetaDataProvider();
+                    __appProvider = new global::Cookbook.Cookbook_XamlTypeInfo.XamlMetaDataProvider();
                 }
                 return __appProvider;
             }
@@ -61,7 +61,7 @@ namespace BookStrafer
     }
 }
 
-namespace BookStrafer.BookStrafer_XamlTypeInfo
+namespace Cookbook.Cookbook_XamlTypeInfo
 {
     /// <summary>
     /// Main class for providing metadata for the app or library
@@ -70,15 +70,15 @@ namespace BookStrafer.BookStrafer_XamlTypeInfo
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     public sealed class XamlMetaDataProvider : global::Windows.UI.Xaml.Markup.IXamlMetadataProvider
     {
-        private global::BookStrafer.BookStrafer_XamlTypeInfo.XamlTypeInfoProvider _provider = null;
+        private global::Cookbook.Cookbook_XamlTypeInfo.XamlTypeInfoProvider _provider = null;
 
-        private global::BookStrafer.BookStrafer_XamlTypeInfo.XamlTypeInfoProvider Provider
+        private global::Cookbook.Cookbook_XamlTypeInfo.XamlTypeInfoProvider Provider
         {
             get
             {
                 if (_provider == null)
                 {
-                    _provider = new global::BookStrafer.BookStrafer_XamlTypeInfo.XamlTypeInfoProvider();
+                    _provider = new global::Cookbook.Cookbook_XamlTypeInfo.XamlTypeInfoProvider();
                 }
                 return _provider;
             }

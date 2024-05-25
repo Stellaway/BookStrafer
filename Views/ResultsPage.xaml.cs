@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Cookbook.Models;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -15,7 +16,7 @@ using Windows.UI.Xaml.Navigation;
 
 // The Blank Page item template is documented at https://go.microsoft.com/fwlink/?LinkId=234238
 
-namespace BookStrafer.Views
+namespace Cookbook.Views
 {
     /// <summary>
     /// An empty page that can be used on its own or navigated to within a Frame.
@@ -27,9 +28,14 @@ namespace BookStrafer.Views
             this.InitializeComponent();
         }
 
-        private void BookCover_ItemClick(object sender, RoutedEventArgs e)
+        /// <summary>
+        /// makes the user able to click on the book cover to be sent to the details page
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void BookCover_ItemClick(object sender, ItemClickEventArgs e)
         {
-            throw new NotImplementedException();
+            ViewModel.NavigateToDetails(((SearchedBook)e.ClickedItem).key);
         }
     }
 }

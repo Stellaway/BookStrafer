@@ -1,1 +1,1 @@
-D:\OneDrive2\OneDrive\Dokumentumok\egyetem\vi_felev\klitech\hf\BookStrafer\BookStrafer.csproj;x86
+D:\OneDrive2\OneDrive\Dokumentumok\egyetem\vi_felev\klitech\last\XAML MVVM start\XAML 2 start\Cookbook\Cookbook\Cookbook.csproj;x86

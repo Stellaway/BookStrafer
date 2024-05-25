@@ -53,7 +53,10 @@ Assets\Wide310x150Logo.scale-150.png
 Assets\Wide310x150Logo.scale-200.png
 Assets\Wide310x150Logo.scale-400.png
 App.xbf
-BookStrafer.xr.xml
+Cookbook.xr.xml
+Styles\Custom.xbf
+Views\DetailsPage.xbf
 Views\MainPage.xbf
 Views\ResultsPage.xbf
+Help.htm
 Properties\Default.rd.xml
